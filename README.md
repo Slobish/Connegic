@@ -1,0 +1,2 @@
+# Connegic
+Educational project
